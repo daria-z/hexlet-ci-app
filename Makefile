@@ -17,5 +17,5 @@ lint:
 
 .PHONY: build
 
-say-hello
+say-hello:
 	console.log('Hello, World!')
