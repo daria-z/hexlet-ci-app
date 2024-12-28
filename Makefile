@@ -18,4 +18,4 @@ lint:
 .PHONY: build
 
 say-hello:
-	console.log('Hello, World!')
+	echo 'Hello, World!'
