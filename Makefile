@@ -16,3 +16,6 @@ lint:
 	npx eslint .
 
 .PHONY: build
+
+say-hello
+	console.log('Hello, World!')
